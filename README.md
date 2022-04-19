@@ -2,7 +2,7 @@
 
 Sterowniki Robotów Laboratorium (SteRoL)
 
-Repozytorium poświęcone kursowi Sterowniki Robotów na Politechnice Wrocławskiej - Zadamia + moje rozwiązania
+Repozytorium poświęcone kursowi Sterowniki Robotów na Politechnice Wrocławskiej - Zadania + moje rozwiązania
 
 ## Strona kursu
 
