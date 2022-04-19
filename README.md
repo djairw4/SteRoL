@@ -1,8 +1,8 @@
-# SteRoL
+﻿# SteRoL
 
 Sterowniki Robotów Laboratorium (SteRoL)
 
-Repozytorium poświęcone kursowi Sterowniki Robotów na Politechnice Wrocławskiej.
+Repozytorium poświęcone kursowi Sterowniki Robotów na Politechnice Wrocławskiej
 
 ## Strona kursu
 
